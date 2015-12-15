@@ -1,11 +1,7 @@
 {"timestamp":"1450209162","author":"cdata@google.com","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"This is a global comment on the appraisal."}
-
 {"timestamp":"1450209237","author":"cdata@google.com","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338","path":"ievms.sh","range":{"startLine":391}},"description":"This URL was changed by MS at some point."}
-
 {"timestamp":"1450209989","author":"dfreedm@google.com","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"haha!"}
-
 {"timestamp":"1450210174","author":"dfreedm@google.com","parent":"9e604f13d25e1dc358cb3156949222d812b9efb4","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"subcomment"}
-
 {"timestamp":"1450210190","author":"dfreedm@google.com","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"resolved":true}
-
+{"timestamp":"1450210197","author":"cdata@google.com","parent":"540bc2ff03898e84a1bfcfce6d39351d4953298d","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"hoohoohooo!"}
 {"timestamp":"1450210246","author":"dfreedm@google.com","parent":"540bc2ff03898e84a1bfcfce6d39351d4953298d","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"test"}
