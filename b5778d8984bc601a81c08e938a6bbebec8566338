@@ -5,3 +5,5 @@
 {"timestamp":"1450209989","author":"dfreedm@google.com","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"haha!"}
 
 {"timestamp":"1450210174","author":"dfreedm@google.com","parent":"9e604f13d25e1dc358cb3156949222d812b9efb4","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"description":"subcomment"}
+
+{"timestamp":"1450210190","author":"dfreedm@google.com","location":{"commit":"b5778d8984bc601a81c08e938a6bbebec8566338"},"resolved":true}
